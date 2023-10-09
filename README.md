@@ -1,6 +1,6 @@
 # U-Net Segmentation
 
-This repository contains the project done as a part of CS736: Medical Image Computing at IIT Bombay in Spring 2022.
+This repository contains the project done as a part of CS736: Medical Image Computing at IIT Bombay in Spring 2022
 
 ---
 
